@@ -1,5 +1,5 @@
-EURJPY, 0, 0, 0, 0
-GBPJPY, 0, 0, 0, 0
+EURJPY, 4, 32, 1, 13
+GBPJPY, 4, 15, 1, 19
 USDJPY, 0, 0, 0, 0
 CADJPY, 2, 18, 7, 9
 NZDJPY, 0, 0, 0, 0
@@ -9,7 +9,7 @@ EURCHF, 0, 0, 0, 0
 CADCHF, 0, 0, 0, 0
 NZDCHF, 0, 0, 0, 0
 GBPCHF, 0, 0, 0, 0
-GBPCAD, 0, 0, 0, 0
+GBPCAD, 1, 47, 13, 17
 USDCAD, 0, 0, 0, 0
 EURCAD, 0, 0, 0, 0
 NZDCAD, 2, 43, 7, 9
@@ -18,4 +18,4 @@ NZDUSD, 0, 0, 0, 0
 GBPUSD, 0, 0, 0, 0
 EURNZD, 0, 0, 0, 0
 GBPNZD, 0, 0, 0, 0
-EURGBP, 0, 0, 0, 0
+EURGBP, 4, 35, 5, 3
