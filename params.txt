@@ -18,4 +18,4 @@ NZDUSD, 0, 0, 0, 0
 GBPUSD, 0, 0, 0, 0
 EURNZD, 0, 0, 0, 0
 GBPNZD, 0, 0, 0, 0
-EURGBP, 0, 0, 0, 0
+EURGBP, 4, 35, 5, 3
