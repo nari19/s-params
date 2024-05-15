@@ -1,7 +1,7 @@
 EURJPY, 0, 0, 0, 0
 GBPJPY, 0, 0, 0, 0
 USDJPY, 0, 0, 0, 0
-CADJPY, 0, 0, 0, 0
+CADJPY, 2, 18, 7, 9
 NZDJPY, 0, 0, 0, 0
 CHFJPY, 0, 0, 0, 0
 USDCHF, 0, 0, 0, 0
