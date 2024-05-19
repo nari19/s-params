@@ -6,11 +6,6 @@ https://nari19.github.io/s-params/status.txt
 
 https://nari19.github.io/s-params/params.txt
 
-### Description example
-
-/schedule 2024-05-19T11:00
-
-
 ### 04/16
 
 EURJPY, 4, 32, 1, 13
