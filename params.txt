@@ -1,4 +1,4 @@
-EURJPY, 4, 32, 1, 13
+EURJPY, 0, 0, 0, 0
 GBPJPY, 0, 0, 0, 0
 USDJPY, 0, 0, 0, 0
 CADJPY, 0, 0, 0, 0
